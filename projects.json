@@ -1,14 +1,14 @@
 [
     {
-      "name": "ScheduleC-expensetransactions",
+      "name": "Expense transactions",
       "live": "https://expenses-schedulec.herokuapp.com/",
       "git": "https://github.com/ttvnguyen/scheduleC_expense_transactions.git",
-      "image": "expenses-prj2.png"
+      "image": "https://imgur.com/4z9OpYn"
     },
     {
-      "name": "Income Allocation - Tax Season 2023",
+      "name": "Income Allocation",
       "live": "https://income-allocation-tax2022.netlify.app/",
       "git": "https://github.com/ttvnguyen/income_allocation.git",
-      "image": "income-prj1.png"
+      "image": "https://imgur.com/RQPPIhI"
     }
   ]
